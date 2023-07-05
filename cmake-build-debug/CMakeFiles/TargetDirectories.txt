@@ -1,0 +1,6 @@
+C:/Users/jakub/OneDrive/Pulpit/grafydsdssd/grafy/graf/PAMSIGrafy/cmake-build-debug/CMakeFiles/graph_algorithms_lib.dir
+C:/Users/jakub/OneDrive/Pulpit/grafydsdssd/grafy/graf/PAMSIGrafy/cmake-build-debug/CMakeFiles/test_sp.dir
+C:/Users/jakub/OneDrive/Pulpit/grafydsdssd/grafy/graf/PAMSIGrafy/cmake-build-debug/CMakeFiles/test_mst.dir
+C:/Users/jakub/OneDrive/Pulpit/grafydsdssd/grafy/graf/PAMSIGrafy/cmake-build-debug/CMakeFiles/efficiency_tests.dir
+C:/Users/jakub/OneDrive/Pulpit/grafydsdssd/grafy/graf/PAMSIGrafy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jakub/OneDrive/Pulpit/grafydsdssd/grafy/graf/PAMSIGrafy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

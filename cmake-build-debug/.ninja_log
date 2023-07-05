@@ -1,0 +1,24 @@
+# ninja log v5
+2432	2588	1684090363754736379	efficiency_tests	17aaf5e3d191d7cf
+2512	2825	7067281573160495	libgraph_algorithms_lib.a	cd0ecaec895b4017
+3262	4122	7067260557241751	efficiency_tests.exe	1c5373fb53312955
+28665	99384	7067282538567518	test_sp.exe	a55d0f556eca953b
+18	2511	7067281570037349	CMakeFiles/graph_algorithms_lib.dir/src/adjacency_list_graph.cpp.obj	5af95e028780500b
+8	4496	7067256428789802	CMakeFiles/efficiency_tests.dir/src/main.cpp.obj	a32c1b72f4e4994c
+17	2690	7067260542935682	CMakeFiles/efficiency_tests.dir/src/adjacency_list_graph.cpp.obj	39743876abbfb63e
+8	2342	7067281568310881	CMakeFiles/graph_algorithms_lib.dir/src/adjacency_matrix_graph.cpp.obj	f8a44eda16d910bb
+49	2356	7067077927115098	CMakeFiles/efficiency_tests.dir/src/adjacency_matrix_graph.cpp.obj	6a961aac76cf21d7
+19	3645	7067256220109238	CMakeFiles/efficiency_tests.dir/src/shortest_path_algorithms.cpp.obj	f5b3cb901be6d8b6
+36	3158	7067281576470901	CMakeFiles/test_sp.dir/src/shortest_path_algorithms.cpp.obj	18c066221b130ff5
+26	28664	7067281831086299	CMakeFiles/test_sp.dir/src/sp_test_graphs.cpp.obj	1d45ac9470ea6667
+7	1012	7059608734016142	CMakeFiles/test_mst.dir/src/minimum_spanning_tree_algorithms.cpp.obj	b4db7d314b1434b3
+15	25474	7059608978164376	CMakeFiles/test_mst.dir/src/mst_test_graphs.cpp.obj	f54d25f1f8c912b
+25474	84942	7059609573119042	test_mst.exe	aeb0a25121bb69f
+19	3152	7067292647587835	CMakeFiles/graph_algorithms_lib.dir/src/adjacency_matrix_graph.cpp.obj	8e6f6978772c3b02
+29	3182	7067292647847887	CMakeFiles/efficiency_tests.dir/src/adjacency_matrix_graph.cpp.obj	a77bb68869ecb2ea
+64	3450	7067292650607543	CMakeFiles/efficiency_tests.dir/src/adjacency_list_graph.cpp.obj	a4af788b5a5ef8d3
+8	3626	7067292652358004	CMakeFiles/graph_algorithms_lib.dir/src/adjacency_list_graph.cpp.obj	da316cfc53288690
+3626	4064	7067292656763890	libgraph_algorithms_lib.a	cd0ecaec895b4017
+38	4404	7067292660108222	CMakeFiles/efficiency_tests.dir/src/shortest_path_algorithms.cpp.obj	da12271663dab9ed
+47	5024	7067292666357450	CMakeFiles/efficiency_tests.dir/src/main.cpp.obj	33722715d4e6129f
+5024	5725	7067292673327212	efficiency_tests.exe	1c5373fb53312955
